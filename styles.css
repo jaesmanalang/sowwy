@@ -1,0 +1,28 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+  min-height: 100vh;
+  background: #333;
+  color: #fff;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: clamp(4.4rem, 8vw, 8rem);
+  color: #f5a962;
+}
+
+p {
+  color: #dddddd;
+  font-family: 'Lobster Two', cursive;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.text-blue {
+  color: #125d98;
+}
+
+.text-blue-1 {
+  color: #3c8dad;
+}
